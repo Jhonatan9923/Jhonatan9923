@@ -1,0 +1,42 @@
+*
+
+table{
+    background-color: silver;
+    height: 180px;
+    width: 640px;
+    outline-style:inset;
+    outline-width:0.09cm;
+    border-collapse: collapse;
+    caption-side: top;
+    background: linear-gradient(to left,black, #fff);
+}
+p {text-align: center}
+
+td {
+    
+    background-color: rgba(185, 147, 90, 0.363);
+    outline-style:groove;
+    position:static;
+    border: solid rgba(128, 128, 128, 0.315) 15px;
+    }
+caption{
+    background:linear-gradient(to right, rgba(22, 235, 199, 0.349), rgba(235, 210, 102, 0.767)) ;
+    outline-style: groove;
+    outline-width: 0.10cm;
+    border:solid #8a8787b7 5px;
+    
+}
+Z
+#w2 {background-color: rgba(243, 131, 39, 0.432);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold
+    }
+#a1 {background-color: rgba(243, 131, 39, 0.432);
+    
+    
+    }
+
+#b1 {background-color: rgba(81, 113, 201, 0.575);}
+#b2 {background-color: rgba(177, 231, 238, 0.301);}
